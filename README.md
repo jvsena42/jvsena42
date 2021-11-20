@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**jvsena42/jvsena42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm João Victor! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+👩‍💻 I'm currently working on Android development with Kotlin
+
+🧠 I'm currently Flutter...
+
+👯‍♀️ I'm looking to collaborate Kotlin with apps
+
+🤔 I'm looking for help Flutter best practices
+
+💬 Ask me about Android and civil engineering
+
+📫 You can reach me by my Linkeddin
+
+😄 He/him
+
+⚡️ Fun fact... I can play harmonica and cavaquinho
+
+
+## 🛠 Skills
+Kotlin, Java, MVVM, Clean Architecture, Mockk, Flutter
+
+
+## 🔗 Links
+[Linkedin](https://www.linkedin.com/in/jvsena42/)
+
+[My Apps](https://linktr.ee/jvsena42)
+
+
+
