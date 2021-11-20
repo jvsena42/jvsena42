@@ -5,9 +5,9 @@
 ## About me
 👩‍💻 I'm currently working on Android development with Kotlin
 
-🧠 I'm currently Flutter...
+🧠 I'm currently learning Flutter
 
-👯‍♀️ I'm looking to collaborate Kotlin with apps
+👯‍♀️ I'm looking to collaborate with Kotlin apps
 
 🤔 I'm looking for help Flutter best practices
 
