@@ -5,13 +5,13 @@
 ## About me
 👩‍💻 I'm currently working on Android development with Kotlin
 
-🧠 I'm currently learning Flutter
+🧠 I'm currently learning Jetpack compose and Flutter
 
 👯‍♀️ I'm looking to collaborate with Kotlin apps
 
 🤔 I'm looking for help Flutter best practices
 
-💬 Ask me about Android and civil engineering
+💬 Ask me about Android and Flutter development
 
 📫 You can reach me by my Linkeddin
 
@@ -21,7 +21,7 @@
 
 
 ## 🛠 Skills
-Kotlin, Java, MVVM, Clean Architecture, Mockk, Flutter
+Kotlin, MVVM, Clean Architecture, Mockk,Jetpack Compose, Flutter
 
 
 ## 🔗 Links
