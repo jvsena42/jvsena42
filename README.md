@@ -22,7 +22,7 @@ Kotlin, MVVM, Clean Architecture, Mockk, Jetpack Compose, Flutter, NFC, HCE, Wea
 ## 🔗 Links
 [Linkedin](https://www.linkedin.com/in/jvsena42/)
 
-[My Apps]([https://linktr.ee/jvsena42](https://play.google.com/store/apps/developer?id=Jo%C3%A3o+Victor+Sena)https://play.google.com/store/apps/developer?id=Jo%C3%A3o+Victor+Sena)
+[My Apps](https://linktr.ee/jvsena42](https://play.google.com/store/apps/developer?id=Jo%C3%A3o+Victor+Sena)https://play.google.com/store/apps/developer?id=Jo%C3%A3o+Victor+Sena)
 
 
 
